@@ -39,7 +39,9 @@ Forma parte del programa **AWS re/Start**, demostrando habilidades prácticas en
 - Crear imagen desde la instancia base  
 - Esperar estado **available**  
 
-📷 *Captura sugerida: AMI creada.*
+### 📷 Captura de la AMI personalizada
+
+![AMI personalizada](Screenshots/ami.png)
 
 ---
 
