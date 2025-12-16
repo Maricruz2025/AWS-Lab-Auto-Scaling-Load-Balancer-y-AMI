@@ -178,7 +178,7 @@ Esto permite aumentar la capacidad automáticamente para mantener el rendimiento
 
 ## ✅ Conclusiones
 
-Este laboratorio permitió implementar una arquitectura escalable y altamente disponible en AWS, utilizando componentes clave de infraestructura como EC2, AMI personalizada, Auto Scaling y Load Balancer.
+Este laboratorio me permitió implementar una arquitectura escalable y altamente disponible en AWS, utilizando componentes clave de infraestructura como EC2, AMI personalizada, Auto Scaling y Load Balancer.
 
 ✔ Se creó una **AMI personalizada** a partir de una instancia EC2 configurada con una aplicación web  
 ✔ Se configuró un **Auto Scaling Group** con políticas de escalado dinámico basadas en métricas de CPU  
